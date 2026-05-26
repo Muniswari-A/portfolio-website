@@ -1,2 +1,2 @@
-# portfolio-website
-Personal portfolio website built using HTML, CSS, and JavaScript
+# portfilio-website
+Personal portfilio website built using HTML, CSS, and JavaScript
